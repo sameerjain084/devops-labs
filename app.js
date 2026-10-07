@@ -10,8 +10,8 @@ app.get('/', (req, res) => {
         <title>DevOps Labs CI/CD</title>
       </head>
       <body>
-        <h1>🚀 AWS CI/CD Pipeline</h1>
-<p>Deployed using GitHub → AWS CodePipeline → Elastic Beanstalk</p>
+        <h1>🚀 AWS CI/CD Pipeline - VERSION 2</h1>
+          <p>🔥 VERSION 2 - Automatically deployed through CI/CD</p>
       </body>
     </html>
   `);
